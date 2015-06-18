@@ -1,7 +1,9 @@
 /* 
- * Exponentiation-by-Squaring.cpp
- * Written by: dbakti7
+ * Exponentiation-by-Squaring.cxx
+ * Implemented by: dbakti7
  * 16 June 2015
+ * Reference:
+ * https://en.wikipedia.org/wiki/Exponentiation_by_squaring
  * */
 #include <cstdio>
 long long power(long long a, long long b, long long m) {
